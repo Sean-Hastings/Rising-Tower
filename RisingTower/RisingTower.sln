@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RisingTower", "Assembly-CSharp.csproj", "{72344942-889A-52EA-8825-80B56C011968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RisingTower", "Assembly-CSharp-firstpass.csproj", "{3436CEAF-48DE-63F0-19D6-897C442C1CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RisingTower", "Assembly-CSharp-Editor-firstpass.csproj", "{9F3040EA-29CD-E444-2EDC-CE71FEC128BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72344942-889A-52EA-8825-80B56C011968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72344942-889A-52EA-8825-80B56C011968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72344942-889A-52EA-8825-80B56C011968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72344942-889A-52EA-8825-80B56C011968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3436CEAF-48DE-63F0-19D6-897C442C1CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3436CEAF-48DE-63F0-19D6-897C442C1CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3436CEAF-48DE-63F0-19D6-897C442C1CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3436CEAF-48DE-63F0-19D6-897C442C1CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3040EA-29CD-E444-2EDC-CE71FEC128BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3040EA-29CD-E444-2EDC-CE71FEC128BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3040EA-29CD-E444-2EDC-CE71FEC128BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3040EA-29CD-E444-2EDC-CE71FEC128BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
